@@ -82,5 +82,5 @@ I focus on:
 
 ---
 
-📍 Open to AI Engineering roles in Netherlands / Switzerland  
+📍 Open to AI Engineering roles in Europe
 📫 darshanl1711@gmail.com  
