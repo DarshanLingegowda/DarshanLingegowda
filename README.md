@@ -81,6 +81,14 @@ I focus on:
 - Latency & cost optimization for GenAI systems
 
 ---
+## 📊 GitHub Stats
 
-📍 Open to AI Engineering roles in Europe
-📫 darshanl1711@gmail.com  
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshanLingegowda&show_icons=true&theme=dark)
+
+## 🛠️ Currently Building
+- 🔧 MLOps Pipeline with MLflow + Vertex AI
+- 🧪 LLM Evaluation Framework with RAGAS
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-darshanl1711@gmail.com-red)](mailto:darshanl1711@gmail.com)
